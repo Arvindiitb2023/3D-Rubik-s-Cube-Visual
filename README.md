@@ -14,3 +14,6 @@ A visual 3D simulation of a Rubik’s Cube built in Python. This project allows 
 - Python 3
 - PyOpenGL
 - Custom cube representation and move logic
+
+## Small Glimpse
+https://youtu.be/bjwmWThBkyk
