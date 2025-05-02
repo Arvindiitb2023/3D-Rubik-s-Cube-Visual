@@ -8,12 +8,20 @@ A visual 3D simulation of a Rubik’s Cube built in Python. This project allows 
 - Supports all standard Rubik’s Cube moves via keyboard
 - Real-time rotation and face updates
 - Accurate cube state tracking
+- Solves Using Kociemba library
 
-## Technologies Used
+## Tools Used
 
 - Python 3
 - PyOpenGL
 - Custom cube representation and move logic
+- PyQt6
+## Logic
+- Main logic for Cube is all faces are sticker
+
+## What left to do?
+- Want to make a Feature where players can scramble cube using OpenCV or manual selecting Colors of Faces
+Would be happy if you contribute to it
 
 ## Small Glimpse
 https://youtu.be/bjwmWThBkyk
