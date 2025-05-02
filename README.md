@@ -23,5 +23,4 @@ A visual 3D simulation of a Rubik’s Cube built in Python. This project allows 
 - Want to make a Feature where players can scramble cube using OpenCV or manual selecting Colors of Faces
 Would be happy if you contribute to it
 
-## Small Glimpse
-https://youtu.be/bjwmWThBkyk
+
